@@ -1,12 +1,15 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: 神所爱的人Beloved
+metaDesc: 在我们的世代传扬耶稣，见证耶稣，激扬人生！Passion Ever～
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+socialImage: ""
 ---
+～～～
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
+欢迎来到林伟清牧师的个人小站，这里你可以读到他的讲章、灵修、读书思考，当然还有少不了的个人兴趣爱好（*比如折腾这个网站就是^_^*）等等。
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+盼望在这里和你一同分享、经历神的爱！
+
+![](/images/give-all.jpeg)
