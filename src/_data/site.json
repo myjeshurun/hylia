@@ -1,13 +1,13 @@
 {
   "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "hi@piccalil.li",
-  "authorHandle": "@piccalilli_",
-  "authorName": "Andy Bell",
-  "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
+  "name": "受苦与激情 Passion Ever",
+  "shortDesc": "我已经与基督同钉十字架，现在活著的不再是我，乃是基督在我里面活。（圣经·加拉太书2:20a）",
+  "url": "https://passionever.cn",
+  "authorEmail": "qingxin@gmail.com",
+  "authorHandle": "@qingxin",
+  "authorName": "林伟清牧师",
+  "enableThirdPartyComments": true,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png"
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 5
 }
