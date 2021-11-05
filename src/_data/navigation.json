@@ -1,13 +1,13 @@
 {
   "items": [
     {
-      "text": "Home",
+      "text": "首页",
       "url": "/",
       "external": false
     },
     {
       "text": "证道分享",
-      "url": "https://passionlife.netlify.app/tags/%E8%AE%B2%E7%AB%A0/",
+      "url": "/tags/%E8%AE%B2%E7%AB%A0/",
       "external": false
     },
     {
