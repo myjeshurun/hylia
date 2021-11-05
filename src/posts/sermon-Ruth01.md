@@ -1,8 +1,9 @@
 ---
 title: 危机时刻的抉择
-date: "2021-10-31"
-description: "在充满了危机的时代中，他们都活出了一个信实的属神百姓的生命，并经历了神丰盛的祝福。"
-thumb: "/images/demo-image-2.jpg"
+date: 2021-10-31
+description: 在充满了危机的时代中，他们都活出了一个信实的属神百姓的生命，并经历了神丰盛的祝福。
+thumb: /images/demo-image-2.jpg
+metaDesc: 在充满了危机的时代中，他们都活出了一个信实的属神百姓的生命，并经历了神丰盛的祝福。
 tags:
   - 讲章
   - 选择
