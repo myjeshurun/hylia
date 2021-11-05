@@ -6,17 +6,12 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/andy-piccalilli/hylia",
-      "external": true
-    },
-    {
-      "text": "Example Contact Page",
-      "url": "/contact",
+      "text": "证道分享",
+      "url": "https://passionlife.netlify.app/tags/%E8%AE%B2%E7%AB%A0/",
       "external": false
     },
     {
-      "text": "寻求你面",
+      "text": "每日灵修",
       "url": "https://seekinggod.cn",
       "external": true
     }
