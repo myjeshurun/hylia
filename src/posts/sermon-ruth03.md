@@ -15,14 +15,14 @@ tags:
 
 ![Ruth and Boaz](https://i.ibb.co/GdQBwsT/Eastlake-Charles-Lock-Boaz-and-Ruth-Shipley-Art-Gallery-http-www-artuk-org-artworks-boaz-and-ruth-35.jpg)
 
-音频
+**音频**(ps:录音不全，大概从讲章第2点开始）
 <iframe src="https://res.cloudinary.com/jeshurun/video/upload/v1636958405/audio/211114sermon_miw1qk.m4a" class="resize-both" frameborder="0"></iframe>
 
 上周我们从拿俄米的角度，透过她所经历的“恰好”看到神在世界中的作为：路得是拿俄米最后的安慰，他们回到伯利恒刚好是收大麦的时候，恰好到了波阿斯的田里。我们说到神不是以明显的神迹，而是以隐藏的方式护理着这个世界，我们要训练眼光去看到神的作为。上周我们专注在神的作为上，今天我们要看看在神护理的作为中，人应该如何行动？在第3章中，透过拿俄米和路得的表现，我们要谈到两点：
 
 
 
-### 积极面对命运的挑战
+### 1. 积极面对命运的挑战
 
 - 拿俄米让路得主动出击
 
@@ -57,7 +57,7 @@ tags:
 我们相信神掌管、护理着这个世界，并不意味着我们就空等神的祝福临到；像路得和拿俄米，我们要按着我们的能力，积极地去应对。
 不仅如此，我们还需要勇气。
 
-### 敢于迈出去冒险
+### 2. 敢于迈出去冒险
 
 
 我们来看看拿俄米给路得出的是一个怎样的主意。
