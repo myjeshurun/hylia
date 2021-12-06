@@ -11,6 +11,7 @@ tags:
 
 
 讲道经文：得4章
+
 ![Ruth Born a son](https://i.ibb.co/dL3s64T/ruth-born-a-son.jpg)
 
 **音频**
