@@ -22,7 +22,8 @@ tags:
 Youtube源版本（*需翻墙才能显示*）
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-eHCxMM3PI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
->>>>> **讲章开始**（没有录音）
+ ————**讲章开始**（没有录音）————
+ 
 新年的时候，大家都会彼此问候，祝福。今天我们要学习一个祝福的祷文，这是我整本圣经中我最喜欢的一个祝福。盼望以此来开启这个必将不平凡的2022。
 
 这是一个很特别的祝福和祷告。这应该是整本旧约最有名的祷告。这堪比新约的主祷文。新约的主祷文是耶稣亲自交给门徒的祷告，而这是神亲自交给祭司要做的祷告。这是在圣殿服事的大祭司，从神那里出来的时候，为神的百姓所祝的福。这应该是旧约的以色列人所能领受的最美的祝福；这个神亲自指示祝福的话，表达了神内心对祂百姓最深切的祝福。
