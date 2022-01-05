@@ -17,7 +17,7 @@ tags:
 
 **👇这个祝福的希伯来语和英文诗歌**
 
-<iframe width="560" height="350" src="https://res.cloudinary.com/jeshurun/video/upload/v1641117736/video/The_Lord_Bless_You_And_Keep_You_Aaronic_Blessing_xj4v1k.mp4" frameborder="0" allowfullscreen></iframe>
+
 
 Youtube源版本（*需翻墙才能显示*）
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-eHCxMM3PI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
