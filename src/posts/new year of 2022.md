@@ -142,7 +142,7 @@ Nehemiah 9:31: 然而你大发怜悯，不全然灭绝他们，也不丢弃他�
 ---
 👇是一个犹太拉比用这段经文的希伯来语祝福，特别美。
 
-<iframe width="560" height="350" src="https://res.cloudinary.com/jeshurun/video/upload/v1641130774/video/The_Aaronic_Blessing_Rabbi_kecxzl.mp4" frameborder="0" allowfullscreen></iframe>
+
 
 Youtube源版本（*需翻墙才能显示*）
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o2KwoddC2s4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
