@@ -17,7 +17,7 @@ tags:
 
 <iframe src="https://res.cloudinary.com/jeshurun/video/upload/v1647324775/audio/20220313%E4%B8%BB%E6%97%A5%E8%AE%B2%E9%81%93--%E8%80%B6%E7%A8%A3%E5%8F%97%E8%AF%95%E6%8E%A201_thjoiv.mp3" class="resize-both" frameborder="0"></iframe>
 
-音频下载：https://www.geshandi.top/s/aWuA
+点击👉[下载讲道音频](https://www.geshandi.top/s/aWuA)
 
 
 讲道经文：路4:1-13
