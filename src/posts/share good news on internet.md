@@ -10,6 +10,8 @@ tags:
 
 ---
 
+![分享福音](https://i.ibb.co/KwTV3Wn/127981.webp)
+
 
 ## 关于互联网宗教信息安全
 
